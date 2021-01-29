@@ -678,7 +678,7 @@ p {
 }
 
 .list-coordinate li {
-    color: #575757;
+    color: #232328FF;
 }
 
 h2 {
@@ -768,7 +768,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #393D3DFF!important;
 }
 
 .color {
@@ -777,7 +777,7 @@ h4 {
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #393D3DFF!important;
 }
 
 .ltc-white {
@@ -1090,4 +1090,8 @@ cite {
 footer h3 {
     font-size: 0.9em;
     font-weight: normal;
+}
+
+a {
+    color: #232328FF!important;
 }
